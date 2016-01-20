@@ -13,3 +13,5 @@ O robô se move de acordo com um loop que fica fazendo a verificação de distâ
 
 ## Resultados obtidos
 Ao longo dos testes foram feitas diversas melhorias, como por exemplo a ajuste de verificação de distâncias por onde o robô tem que ir e poder consertar isso;
+
+Mais informações em: https://github.com/levindoneto/RobotNavigatorino/wiki/Wiki-RobotNavigatorino
